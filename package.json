@@ -4,6 +4,7 @@
   "description": "Node_JS_File_Upload",
   "main": "server.js",
   "dependencies": {
+    "@google-cloud/storage": "^4.6.0",
     "body-parser": "^1.15.2",
     "cors": "^2.8.5",
     "ejs": "^2.6.1",
